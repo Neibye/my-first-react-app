@@ -1,0 +1,15 @@
+#byenshold {
+  text-align: center;
+  color: #001e96;
+  font-size: 2rem;
+  font-family: "Oswald", sans-serif !important;
+  font-weight: 700;
+  margin-top: 30px;
+}
+
+#frontlogo {
+  max-width: 50%;
+  display: block;
+  margin: auto;
+  padding: 30px 0px;
+}

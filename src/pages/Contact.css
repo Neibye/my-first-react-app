@@ -1,0 +1,11 @@
+.fckblue1 {
+  color: #001e96;
+  font-size: 1.6rem;
+  font-family: "Oswald", sans-serif !important;
+  font-weight: 700;
+  margin-top: 10px;
+}
+
+#borderunder {
+  border-bottom: blue;
+}

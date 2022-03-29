@@ -1,0 +1,36 @@
+.fckblue {
+  color: #001e96;
+  font-size: 1.6rem;
+  font-family: "Oswald", sans-serif !important;
+  font-weight: 700;
+}
+
+#boxborder {
+  border-style: solid;
+  border-color: lightgrey;
+  border-radius: 6px;
+  border-width: 2px;
+}
+
+.MyAc {
+  font-size: 22px;
+  text-align: center;
+  font-family: "Oswald", sans-serif !important;
+  font-weight: 400;
+}
+
+#logosize {
+  max-width: 60px;
+  margin: 6px;
+}
+
+.changepad {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.titlepadding {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  font-size: 20px;
+}

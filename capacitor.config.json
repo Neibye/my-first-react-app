@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "ionic-app-project-v2",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
