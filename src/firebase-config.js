@@ -7,13 +7,7 @@ import { getAuth } from "@firebase/auth";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCDN-sciKFMrxtvrRl7vOssvEhSUqeMxWQ",
-  authDomain: "ionic-app-project-c61c9.firebaseapp.com",
-  databaseURL: "https://ionic-app-project-c61c9-default-rtdb.firebaseio.com",
-  projectId: "ionic-app-project-c61c9",
-  storageBucket: "ionic-app-project-c61c9.appspot.com",
-  messagingSenderId: "66228423339",
-  appId: "1:66228423339:web:4800724c8762d1d22285ee",
+...
 };
 
 // Initialize Firebase
